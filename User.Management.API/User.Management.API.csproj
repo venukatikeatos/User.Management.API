@@ -21,7 +21,16 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Models\Authentication\Login\" />
     <Folder Include="ReadMe\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\a854856\Music\ASP.NET Core + SQL\User.Management.API\User.Management.API\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\a854856\Music\ASP.NET Core + SQL\User.Management.API\User.Management.API\.editorconfig" />
   </ItemGroup>
 
 </Project>
